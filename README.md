@@ -2,6 +2,10 @@
 
 ## Alunos: Valdir R. Jr. e Wesley R. Lamb ##
 
+### Vídeo demontrativo no Youtube ###
+
+"https://youtu.be/USOk5dZG-Yw"
+
 ### Descrição: ###
 
   Este é um jogo de perguntas e respostas que tenta identificar a civilização do Age of Empires II que o jogador está pensando.
