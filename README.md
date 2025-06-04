@@ -10,9 +10,11 @@
 
 ### Informações sobre as perguntas: ###
 
-  Todas as 50 civilizações foram consultadas no site "https://aoe2techtree.net/", onde encontramos diversas informações e focamos em algumas mais simples e facilmente encontradas ao realizar uma busca.
+  As regras de cada uma das 50 civilizações foram baseadas nas vantagens e unidades exclusivas que elas possuem. A fonte dos dados foi o próprio jogo Age of Empires II: Definitive Edition, disponível no Steam, juntamente com o site https://aoe2techtree.net/", onde é possível consultar estas informações mesmo que não possua o jogo. 
+  Ao pesquisar nessas fontes, encontramos diversas informações e focamos em algumas mais simples e facilmente encontradas ao realizar uma busca.
   
   Para exemplo, a civilização Italiana:
+  
   ![italianos](https://github.com/user-attachments/assets/5c7803cf-4e4d-446b-8bdd-3b598bf32c66)
 
   Podemos facilmente encontrar as informações que o jogo perguntará, que são:
@@ -32,6 +34,10 @@
 
   O código base foi o animais.pl que o professor nos disponibilizou.
 
+## Atenção ##
+  Caso você seja um jogador mais experiente de AoE II, irá perceber que algumas civilizações tem vantagens não listadas, ou diferentes. Por isso ressalto que nossos dados são baseados na classificação disponibilizada pela produtora do jogo, como por exemplo os Borgonheses, que possuem a Milícia Flamenga (infantaria) como uma de suas unidades exclusivas, mas são classificados somente como cavalaria.
+
+      
 ### Como jogar: ###
 
   1. Visite o jogo ou o site para consultar as civilizações, suas vantagens, unidades exclusivas e toda a sua árvore de tecnologias.
@@ -44,6 +50,3 @@
   8. Se quiser jogar novamente, digite 'iniciar.' novamente.
   9. Para sair do jogo, digite 'halt.' ou feche o terminal.
   10. Divirta-se!!
-     
-
-
